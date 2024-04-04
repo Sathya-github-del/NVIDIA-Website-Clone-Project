@@ -8,6 +8,3 @@ A Simple NVIDIA website clone project
 |- JAVASCRIPT
 
 Note:- Can be Used Only for Projects 
-
-Donate:- saviour100@ibl  (Phonepe, Paytm, Gpay)
-         , @SPrakashJ  (Paypal)
